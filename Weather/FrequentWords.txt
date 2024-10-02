@@ -1,0 +1,4 @@
+Average = keskimääräistä
+Warmer = lämpimämpi
+Raised = nostettavaa
+At least = vähintäänkin
